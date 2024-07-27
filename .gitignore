@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.idea/dataSources.xml
+
+.idea/modules.xml
+
+.idea/nextjs-dashboard.iml
+
+.idea/php.xml
+
+.idea/sqldialects.xml
+
+.idea/vcs.xml
